@@ -1,0 +1,7 @@
+C:\Users\М\source\repos\P15\P15\bin\Debug\P15.exe.config
+C:\Users\М\source\repos\P15\P15\bin\Debug\P15.exe
+C:\Users\М\source\repos\P15\P15\bin\Debug\P15.pdb
+C:\Users\М\source\repos\P15\P15\obj\Debug\P15.csproj.AssemblyReference.cache
+C:\Users\М\source\repos\P15\P15\obj\Debug\P15.csproj.CoreCompileInputs.cache
+C:\Users\М\source\repos\P15\P15\obj\Debug\P15.exe
+C:\Users\М\source\repos\P15\P15\obj\Debug\P15.pdb
